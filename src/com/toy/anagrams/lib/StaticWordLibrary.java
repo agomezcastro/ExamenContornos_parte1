@@ -40,8 +40,6 @@ package com.toy.anagrams.lib;
 final class StaticWordLibrary extends WordLibrary {
     //palabras clave
     private static final String[] WORD_LIST = {
-        "abstraction",
-        "ambiguous",
         "arithmetic",
         "backslash",
         "bitmap",
